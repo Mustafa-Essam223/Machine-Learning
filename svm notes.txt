@@ -1,0 +1,8 @@
+- Testing Size= 0.25 (3000 picture) , Training Size= 0.75 (9000 picture)
+- Accuracy = 49.36%
+- Training Time about 16 mins for 12000 Pictures , and about 3 mins for 6000 Pictures
+- The more Pictures used for Training and Testing the better accuracy we get but more running time to calculate the accuracy.
+
+
+
+
